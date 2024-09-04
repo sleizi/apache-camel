@@ -1,6 +1,6 @@
 {
-  "id": 1000,
-  "from": "USD",
-  "to": "INR",
-  "conversionMultiple": 70
+  "ID": 1000,
+  "FROM": "USD",
+  "TO": "INR",
+  "CONVERSIONMULTIPLE": 70
 }
