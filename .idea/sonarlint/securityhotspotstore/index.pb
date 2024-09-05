@@ -116,3 +116,5 @@ G.idea/sonarlint/issuestore/b/2/b25eabf956086d1ba07b38f10a4a3ecdd6630b1b,e\8\e8
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+O
+camel-microservice-1/.gitignore,6\e\6e0a02d940811455e977ca37f50e2acf4d697455
