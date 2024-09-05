@@ -1,0 +1,215 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"85201701-d1cb-4066-a100-01c3688f93dd\" name=\"Changes\" comment=\"Add gitignore\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"CompilerWorkspaceConfiguration\">\r\n    <option name=\"MAKE_PROJECT_ON_SAVE\" value=\"true\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"KubernetesApiPersistence\"><![CDATA[{}]]></component>\r\n  <component name=\"KubernetesApiProvider\"><![CDATA[{\r\n  \"isMigrated\": true\r\n}]]></component>\r\n  <component name=\"MavenRunner\">\r\n    <option name=\"skipTests\" value=\"true\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 3\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2laSSNAHdFocGtkEGKffSwEpqwz\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RequestMappingsPanelOrder0\": \"0\",\r\n    \"RequestMappingsPanelOrder1\": \"1\",\r\n    \"RequestMappingsPanelWidth0\": \"75\",\r\n    \"RequestMappingsPanelWidth1\": \"75\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"SONARLINT_PRECOMMIT_ANALYSIS\": \"true\",\r\n    \"Spring Boot.CamelMicroservice1Application.executor\": \"Debug\",\r\n    \"Spring Boot.CamelMicroservice2Application.executor\": \"Debug\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/nguye/OneDrive/00. LEARNING/Udemy/Camel/apache-camel/files/csv\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ReactorSettings\">\r\n    <option name=\"notificationShown\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\nguye\\OneDrive\\00. LEARNING\\Udemy\\Camel\\apache-camel\\files\\csv\" />\r\n      <recent name=\"C:\\Users\\nguye\\OneDrive\\00. LEARNING\\Udemy\\Camel\\apache-camel\\files\\input\" />\r\n      <recent name=\"C:\\Users\\nguye\\OneDrive\\00. LEARNING\\Udemy\\Camel\\apache-camel\\files\\json\" />\r\n      <recent name=\"C:\\Users\\nguye\\OneDrive\\00. LEARNING\\Udemy\\Camel\\apache-camel\\files\\xml\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\nguye\\OneDrive\\00. LEARNING\\Udemy\\Camel\\apache-camel\\files\\csv\" />\r\n      <recent name=\"C:\\Users\\nguye\\OneDrive\\00. LEARNING\\Udemy\\Camel\\apache-camel\\files\\input\" />\r\n      <recent name=\"C:\\Users\\nguye\\OneDrive\\00. LEARNING\\Udemy\\Camel\\apache-camel\\files\\json\" />\r\n    </key>\r\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\r\n      <recent name=\"com.example.camel.camel_microservice_1.routes.c\" />\r\n      <recent name=\"com.example.camel.camel_microservice_2.routes\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunDashboard\">\r\n    <option name=\"configurationTypes\">\r\n      <set>\r\n        <option value=\"SpringBootApplicationConfigurationType\" />\r\n      </set>\r\n    </option>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Spring Boot.CamelMicroservice1Application\">\r\n    <configuration name=\"CamelMicroservice1Application\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\">\r\n      <module name=\"camel-microservice-1\" />\r\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.example.camel.camel_microservice_1.CamelMicroservice1Application\" />\r\n      <option name=\"VM_PARAMETERS\" value=\"-Dorg.apache.activemq.SERIALIZABLE_PACKAGES=*\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"CamelMicroservice2Application\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\">\r\n      <module name=\"camel-microservice-2\" />\r\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.example.camel.camel_microservice_2.CamelMicroservice2Application\" />\r\n      <option name=\"VM_PARAMETERS\" value=\"-Dorg.apache.activemq.SERIALIZABLE_PACKAGES=*\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79\" />\r\n        <option value=\"bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"85201701-d1cb-4066-a100-01c3688f93dd\" name=\"Changes\" comment=\"\" />\r\n      <created>1725416695570</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1725416695570</updated>\r\n      <workItem from=\"1725419004166\" duration=\"18000\" />\r\n      <workItem from=\"1725419389300\" duration=\"27000\" />\r\n      <workItem from=\"1725419560706\" duration=\"133000\" />\r\n      <workItem from=\"1725421770211\" duration=\"437000\" />\r\n      <workItem from=\"1725422982560\" duration=\"223000\" />\r\n      <workItem from=\"1725423261703\" duration=\"205000\" />\r\n      <workItem from=\"1725423524386\" duration=\"155000\" />\r\n      <workItem from=\"1725423857874\" duration=\"1557000\" />\r\n      <workItem from=\"1725430694972\" duration=\"6703000\" />\r\n      <workItem from=\"1725441179187\" duration=\"1912000\" />\r\n      <workItem from=\"1725454094320\" duration=\"13538000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"End section 3\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1725465497627</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1725465497627</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Add section 4\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1725497428072</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1725497428072</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Add gitignore\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1725497462818</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1725497462818</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Add gitignore\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1725497616070</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1725497616070</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"End section 3\" />\r\n    <MESSAGE value=\"Add section 4\" />\r\n    <MESSAGE value=\"Add gitignore\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Add gitignore\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <watches-manager>\r\n      <configuration name=\"SpringBootApplicationConfigurationType\">\r\n        <watch expression=\"&#10;    @Autowired&#10;    MyCurrencyExchangeTransformer myCurrencyExchangeTransformer;\" />\r\n      </configuration>\r\n    </watches-manager>\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,204 +1,4 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="AutoImportSettings">
+-    <option name="autoReloadType" value="SELECTIVE" />
+-  </component>
+-  <component name="ChangeListManager">
+-    <list default="true" id="85201701-d1cb-4066-a100-01c3688f93dd" name="Changes" comment="Add gitignore" />
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="CompilerWorkspaceConfiguration">
+-    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Class" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-  </component>
+-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+-  <component name="KubernetesApiProvider"><![CDATA[{
+-  "isMigrated": true
+-}]]></component>
+-  <component name="MavenRunner">
+-    <option name="skipTests" value="true" />
+-  </component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 3
+-}]]></component>
+-  <component name="ProjectId" id="2laSSNAHdFocGtkEGKffSwEpqwz" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+-    <ConfirmationsSetting value="2" id="Add" />
+-  </component>
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+-  </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RequestMappingsPanelOrder0": "0",
+-    "RequestMappingsPanelOrder1": "1",
+-    "RequestMappingsPanelWidth0": "75",
+-    "RequestMappingsPanelWidth1": "75",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+-    "Spring Boot.CamelMicroservice1Application.executor": "Debug",
+-    "Spring Boot.CamelMicroservice2Application.executor": "Debug",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "C:/Users/nguye/OneDrive/00. LEARNING/Udemy/Camel/apache-camel/files/csv",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "vue.rearranger.settings.migration": "true"
+-  }
+-}]]></component>
+-  <component name="ReactorSettings">
+-    <option name="notificationShown" value="true" />
+-  </component>
+-  <component name="RecentsManager">
+-    <key name="CopyFile.RECENT_KEYS">
+-      <recent name="C:\Users\nguye\OneDrive\00. LEARNING\Udemy\Camel\apache-camel\files\csv" />
+-      <recent name="C:\Users\nguye\OneDrive\00. LEARNING\Udemy\Camel\apache-camel\files\input" />
+-      <recent name="C:\Users\nguye\OneDrive\00. LEARNING\Udemy\Camel\apache-camel\files\json" />
+-      <recent name="C:\Users\nguye\OneDrive\00. LEARNING\Udemy\Camel\apache-camel\files\xml" />
+-    </key>
+-    <key name="MoveFile.RECENT_KEYS">
+-      <recent name="C:\Users\nguye\OneDrive\00. LEARNING\Udemy\Camel\apache-camel\files\csv" />
+-      <recent name="C:\Users\nguye\OneDrive\00. LEARNING\Udemy\Camel\apache-camel\files\input" />
+-      <recent name="C:\Users\nguye\OneDrive\00. LEARNING\Udemy\Camel\apache-camel\files\json" />
+-    </key>
+-    <key name="CopyClassDialog.RECENTS_KEY">
+-      <recent name="com.example.camel.camel_microservice_1.routes.c" />
+-      <recent name="com.example.camel.camel_microservice_2.routes" />
+-    </key>
+-  </component>
+-  <component name="RunDashboard">
+-    <option name="configurationTypes">
+-      <set>
+-        <option value="SpringBootApplicationConfigurationType" />
+-      </set>
+-    </option>
+-  </component>
+-  <component name="RunManager" selected="Spring Boot.CamelMicroservice1Application">
+-    <configuration name="CamelMicroservice1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+-      <module name="camel-microservice-1" />
+-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.camel.camel_microservice_1.CamelMicroservice1Application" />
+-      <option name="VM_PARAMETERS" value="-Dorg.apache.activemq.SERIALIZABLE_PACKAGES=*" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-    <configuration name="CamelMicroservice2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+-      <module name="camel-microservice-2" />
+-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.camel.camel_microservice_2.CamelMicroservice2Application" />
+-      <option name="VM_PARAMETERS" value="-Dorg.apache.activemq.SERIALIZABLE_PACKAGES=*" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-  </component>
+-  <component name="SharedIndexes">
+-    <attachedChunks>
+-      <set>
+-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+-      </set>
+-    </attachedChunks>
+-  </component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="85201701-d1cb-4066-a100-01c3688f93dd" name="Changes" comment="" />
+-      <created>1725416695570</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1725416695570</updated>
+-      <workItem from="1725419004166" duration="18000" />
+-      <workItem from="1725419389300" duration="27000" />
+-      <workItem from="1725419560706" duration="133000" />
+-      <workItem from="1725421770211" duration="437000" />
+-      <workItem from="1725422982560" duration="223000" />
+-      <workItem from="1725423261703" duration="205000" />
+-      <workItem from="1725423524386" duration="155000" />
+-      <workItem from="1725423857874" duration="1557000" />
+-      <workItem from="1725430694972" duration="6703000" />
+-      <workItem from="1725441179187" duration="1912000" />
+-      <workItem from="1725454094320" duration="13538000" />
+-    </task>
+-    <task id="LOCAL-00001" summary="End section 3">
+-      <option name="closed" value="true" />
+-      <created>1725465497627</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1725465497627</updated>
+-    </task>
+-    <task id="LOCAL-00002" summary="Add section 4">
+-      <option name="closed" value="true" />
+-      <created>1725497428072</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1725497428072</updated>
+-    </task>
+-    <task id="LOCAL-00003" summary="Add gitignore">
+-      <option name="closed" value="true" />
+-      <created>1725497462818</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1725497462818</updated>
+-    </task>
+-    <task id="LOCAL-00004" summary="Add gitignore">
+-      <option name="closed" value="true" />
+-      <created>1725497616070</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1725497616070</updated>
+-    </task>
+-    <option name="localTasksCounter" value="5" />
+-    <servers />
+-  </component>
+-  <component name="TypeScriptGeneratedFilesManager">
+-    <option name="version" value="3" />
+-  </component>
+-  <component name="Vcs.Log.Tabs.Properties">
+-    <option name="TAB_STATES">
+-      <map>
+-        <entry key="MAIN">
+-          <value>
+-            <State />
+-          </value>
+-        </entry>
+-      </map>
+-    </option>
+-  </component>
+-  <component name="VcsManagerConfiguration">
+-    <MESSAGE value="End section 3" />
+-    <MESSAGE value="Add section 4" />
+-    <MESSAGE value="Add gitignore" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Add gitignore" />
+-  </component>
+-  <component name="XDebuggerManager">
+-    <watches-manager>
+-      <configuration name="SpringBootApplicationConfigurationType">
+-        <watch expression="&#10;    @Autowired&#10;    MyCurrencyExchangeTransformer myCurrencyExchangeTransformer;" />
+-      </configuration>
+-    </watches-manager>
+-  </component>
+-  <component name="XSLT-Support.FileAssociations.UIState">
+-    <expand />
+-    <select />
+-  </component>
++  <component name="PropertiesComponent">{}</component>
+ </project>
+\ No newline at end of file
