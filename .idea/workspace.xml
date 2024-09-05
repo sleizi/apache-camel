@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8661c3e-fe6c-4f32-a643-34151d12f15e" name="Changes" comment="" />
+    <list default="true" id="f8661c3e-fe6c-4f32-a643-34151d12f15e" name="Changes" comment="Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,55 +13,77 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
   <component name="ProjectId" id="2ld7HNTu7FLPvC8CXfwZo6xkVFQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.camel-microservice-1 [clean].executor": "Run",
-    "Maven.camel-microservice-1 [install].executor": "Run",
-    "Maven.camel-microservice-2 [clean].executor": "Run",
-    "Maven.camel-microservice-2 [install].executor": "Run"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/camel-microservice-2/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tunx7\Desktop\Workspace\Camel\camel-microservice-2\src\main\resources" />
+      <recent name="C:\Users\tunx7\Desktop\Workspace\Camel\camel-microservice-1\src\main\resources" />
+      <recent name="C:\Users\tunx7\Desktop\Workspace\Camel\files\input\.camel" />
+      <recent name="C:\Users\tunx7\Desktop\Workspace\Camel\files\aggregate-json" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.camel.camel_microservice_1.routes" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
         <option value="Application" />
+        <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.CamelMicroservice1Application">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CamelMicroservice1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="camel-microservice-1" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.camel.camel_microservice_1.CamelMicroservice1Application" />
-      <option name="VM_PARAMETERS" value="-Dorg.apache.activemq.SERIALIZABLE_PACKAGES=*" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.camel.camel_microservice_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.camel.camel_microservice_1.CamelMicroservice1Application" />
+      <option name="VM_PARAMETERS" value="-Dorg.apache.activemq.SERIALIZABLE_PACKAGES=*" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="CamelMicroservice2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="camel-microservice-2" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.camel.camel_microservice_2.CamelMicroservice2Application" />
       <option name="VM_PARAMETERS" value="-Dorg.apache.activemq.SERIALIZABLE_PACKAGES=*" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -84,6 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725498011876</updated>
       <workItem from="1725498013605" duration="164000" />
+      <workItem from="1725502310047" duration="7354000" />
     </task>
     <servers />
   </component>
@@ -112,5 +135,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
