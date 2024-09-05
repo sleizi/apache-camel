@@ -20,7 +20,9 @@ public class MyFileRouter extends RouteBuilder {
 
     @Override
     public void configure() throws Exception {
+
         from("file:files/input")
+//                .pipeline()
                 .routeId("Files-Input-Route")
                 .transform().body(String.class, body -> body.toUpperCase())
                 .choice()
